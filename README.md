@@ -7,8 +7,9 @@ Some things about me about me:\
 -I love coffe and cats\
 -I love playing games\
 Here are some intresting projects i developed:
+* [CTF writeups](https://kliprmimo.github.io/)
 * [passBreaker](https://github.com/Kliprmimo/passBreaker)
 * [portswigger_labs](https://github.com/Kliprmimo/portswigger_labs)
 * [simple 2fa using mail](https://github.com/Kliprmimo/2fa)
 * [Dinogame](https://github.com/Kliprmimo/DinoGame)
-* [CTF writeups](https://kliprmimo.github.io/)
+
